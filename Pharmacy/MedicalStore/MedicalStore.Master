@@ -7,7 +7,7 @@
 
 <header class="header">
     <div style="color:white">
-        <h1>PHOENIX PHARMACY</h1>
+        <h1>Medical Store  Web Application</h1>
     </div>
 </header>
 <body>
@@ -21,6 +21,6 @@
 <footer class="footer">
     <div class="div" style="color:white; height: 34px;">
         This project is made by: <br />
-        Umair Habib, Saqib Rashid and Moiz Ahmed
+        Ibrar Ali 
     </div>
 </footer>

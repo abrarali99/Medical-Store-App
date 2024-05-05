@@ -1,0 +1,12 @@
+C:\Users\Ibrar\Source\Repos\Web-Based-Pharmacy-using-C-Sharp-and-SQL5\Pharmacy\MedicalStore\bin\MedicalStore.dll.config
+C:\Users\Ibrar\Source\Repos\Web-Based-Pharmacy-using-C-Sharp-and-SQL5\Pharmacy\MedicalStore\bin\MedicalStore.dll
+C:\Users\Ibrar\Source\Repos\Web-Based-Pharmacy-using-C-Sharp-and-SQL5\Pharmacy\MedicalStore\bin\MedicalStore.pdb
+C:\Users\Ibrar\Source\Repos\Web-Based-Pharmacy-using-C-Sharp-and-SQL5\Pharmacy\MedicalStore\bin\EntityFramework.dll
+C:\Users\Ibrar\Source\Repos\Web-Based-Pharmacy-using-C-Sharp-and-SQL5\Pharmacy\MedicalStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Ibrar\Source\Repos\Web-Based-Pharmacy-using-C-Sharp-and-SQL5\Pharmacy\MedicalStore\bin\EntityFramework.xml
+C:\Users\Ibrar\Source\Repos\Web-Based-Pharmacy-using-C-Sharp-and-SQL5\Pharmacy\MedicalStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Ibrar\Source\Repos\Web-Based-Pharmacy-using-C-Sharp-and-SQL5\Pharmacy\MedicalStore\obj\Release\MedicalStore.csproj.AssemblyReference.cache
+C:\Users\Ibrar\Source\Repos\Web-Based-Pharmacy-using-C-Sharp-and-SQL5\Pharmacy\MedicalStore\obj\Release\MedicalStore.csproj.CoreCompileInputs.cache
+C:\Users\Ibrar\Source\Repos\Web-Based-Pharmacy-using-C-Sharp-and-SQL5\Pharmacy\MedicalStore\obj\Release\MedicalStore.csproj.CopyComplete
+C:\Users\Ibrar\Source\Repos\Web-Based-Pharmacy-using-C-Sharp-and-SQL5\Pharmacy\MedicalStore\obj\Release\MedicalStore.dll
+C:\Users\Ibrar\Source\Repos\Web-Based-Pharmacy-using-C-Sharp-and-SQL5\Pharmacy\MedicalStore\obj\Release\MedicalStore.pdb

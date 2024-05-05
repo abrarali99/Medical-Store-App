@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Ibrar\Source\Repos\Web-Based-Pharmacy-using-C-Sharp-and-SQL5\Pharmacy\MedicalStore\bin\app.publish\</_PublishTargetUrl>
+    <History>True|2024-05-05T06:57:26.5403667Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="About.aspx">
+      <publishTime>05/05/2024 02:19:29</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>04/17/2020 01:38:42</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>04/17/2020 01:38:56</publishTime>
+    </File>
+    <File Include="bin/MedicalStore.dll">
+      <publishTime>05/05/2024 11:57:25</publishTime>
+    </File>
+    <File Include="bin/MedicalStore.pdb">
+      <publishTime>05/05/2024 11:57:25</publishTime>
+    </File>
+    <File Include="Dealer.aspx">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="Employ.aspx">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="Frontpage.aspx">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>05/05/2024 02:24:39</publishTime>
+    </File>
+    <File Include="images/1088840.jpg">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="images/7091.jpg">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="images/7101.jpg">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="images/7129.jpg">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="images/image1.jpg">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="images/image2.jpg">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="images/image3.jpg">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>05/05/2024 02:20:49</publishTime>
+    </File>
+    <File Include="MedicalStore.Master">
+      <publishTime>05/05/2024 02:12:03</publishTime>
+    </File>
+    <File Include="Medicine.aspx">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="output4.aspx">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="output5.aspx">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="Outputpage.aspx">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="Outputpage2.aspx">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="Outputpage3.aspx">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="Purchase.aspx">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="Signup.aspx">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="stylesheet.css">
+      <publishTime>05/05/2024 02:02:32</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/05/2024 11:57:26</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

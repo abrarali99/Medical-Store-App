@@ -25,24 +25,24 @@ namespace MedicalStore
             {
                 Page.ClientScript.RegisterStartupScript(this.GetType(), "Scripts", "<script>alert('Kindly Enter Data');</script>");﻿
             }
-            else
-            {
-                int result = userDal.Login(Username, Password);
-                if (result == 1)
-                {
-                    Label1.Text = "Login Successful!";
-                    Response.Redirect("~/Home.aspx");
-                }
-                else if (result == 0)
-                {
-                    Label1.Text = "Login Unsuccessful!";
-                }
+            //else
+            //{
+            //    int result = userDal.Login(Username, Password);
+            //    if (result == 1)
+            //    {
+            //        Label1.Text = "Login Successful!";
+            //        Response.Redirect("~/Home.aspx");
+            //    }
+            //    else if (result == 0)
+            //    {
+            //        Label1.Text = "Login Unsuccessful!";
+            //    }
 
-                else if (result == -5)
-                {
-                    Page.ClientScript.RegisterStartupScript(this.GetType(), "Scripts", "<script>alert('SQL Error');</script>");﻿
-                }
-            }
+            //    else if (result == -5)
+            //    {
+            //        Page.ClientScript.RegisterStartupScript(this.GetType(), "Scripts", "<script>alert('SQL Error');</script>");﻿
+            //    }
+            //}
         }
     }
 }
